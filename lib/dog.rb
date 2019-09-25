@@ -10,6 +10,6 @@ end
   end
 end
 
-iggy = dog.new
+iggy = Dog.new
 iggy.name = "Iggy"
 iggy.bark
