@@ -11,3 +11,4 @@ end
 end
 
 iggy = dog.new
+iggy.name 
