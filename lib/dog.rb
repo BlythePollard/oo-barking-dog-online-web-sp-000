@@ -11,4 +11,5 @@ end
 end
 
 iggy = dog.new
-iggy.name 
+iggy.name = "Iggy"
+iggy.bark
