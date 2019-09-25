@@ -12,4 +12,5 @@ end
 
 iggy = Dog.new
 iggy.name = "Iggy"
+puts iggy.name
 iggy.bark
